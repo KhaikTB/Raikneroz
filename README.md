@@ -1,7 +1,7 @@
 
 # Raikneroz Profile
 
-👋 Hi, welcome to my GitHub profile!
+👋 Hi, welcome to my GitHub!
 
 <br>
 
