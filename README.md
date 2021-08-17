@@ -28,4 +28,5 @@ I would say I am a fast learner maybe because due to previous experience or just
 - CSS3
 - JavaScript ES6
 - Figma
+- GitHub
 - Git
