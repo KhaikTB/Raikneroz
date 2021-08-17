@@ -14,7 +14,7 @@ didn't sparked joy on what I was learning to be.
 
 Fast track some time played with Python and C++ for specific trading purposes.
 
-So time skipping now 2021 I started again from scratch learning programming languages.
+So time skipping now 2021 I started again from scratch self-learning programming languages.
 
 I went for the Front End path because I love the way my code is displayed visually compared to other languages and I just love learning about Front End.
 
