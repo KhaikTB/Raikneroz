@@ -30,5 +30,3 @@ I would say I am a fast learner maybe because due to previous experience or just
 - Figma
 - GitHub
 - Git
-
-<a href="https://ibb.co/0FgbWw9"><img src="https://i.ibb.co/0FgbWw9/Programming-1.jpg" alt="Programming-1" border="0"></a>
