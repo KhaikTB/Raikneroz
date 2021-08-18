@@ -24,9 +24,11 @@ I would say I am a fast learner maybe because due to previous experience or just
 
 ## 🛠 Skills
 
-- HTML5
-- CSS3
-- JavaScript ES6
-- Figma
-- GitHub
-- Git
+<br>
+
+<a href="https://ibb.co/tQj4s7m"><img src="https://i.ibb.co/tQj4s7m/HTML5.png" alt="HTML5" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/L6WZDWQ"><img src="https://i.ibb.co/L6WZDWQ/CSS3.png" alt="CSS3" alt="HTML5" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/tK2Yj2X"><img src="https://i.ibb.co/tK2Yj2X/Java-Script-ES6.png" alt="Java-Script-ES6" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/MRdsqbZ"><img src="https://i.ibb.co/MRdsqbZ/Figma.png" alt="Figma" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/DDdTsJj"><img src="https://i.ibb.co/DDdTsJj/GitHub.png" alt="GitHub" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/WVfQKcK"><img src="https://i.ibb.co/WVfQKcK/Git.png" alt="Git" align="left" width="30px" border="0"></a>
