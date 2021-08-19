@@ -23,7 +23,7 @@ I would say I am a fast learner maybe because due to previous experience or just
 
 <br>
 
-<h2>🛠 Skills</h2>
+<h2>🛠 Skills & Tools</h2>
 
 <br>
 
