@@ -1,10 +1,12 @@
 <h1 align="center">Tiago Profile</h1>
 
-👋 Hi, welcome to my GitHub!
+<h3 align="center">👋 Hi, welcome to my GitHub!</h3>
 
 <br>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+
+<br>
 
 I started my programming journey in 2015 in High School with C++, Java and HTML just the basics.
 
@@ -21,7 +23,7 @@ I would say I am a fast learner maybe because due to previous experience or just
 
 <br>
 
-## 🛠 Skills
+<h2>🛠 Skills</h2>
 
 <br>
 
