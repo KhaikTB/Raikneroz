@@ -33,3 +33,12 @@ I would say I am a fast learner maybe because due to previous experience or just
 <a href="https://ibb.co/MRdsqbZ"><img src="https://i.ibb.co/MRdsqbZ/Figma.png" alt="Figma" align="left" width="30px" border="0"></a>
 <a href="https://ibb.co/DDdTsJj"><img src="https://i.ibb.co/DDdTsJj/GitHub.png" alt="GitHub" align="left" width="30px" border="0"></a>
 <a href="https://ibb.co/WVfQKcK"><img src="https://i.ibb.co/WVfQKcK/Git.png" alt="Git" align="left" width="30px" border="0"></a>
+
+<br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raikneroz&label=Profile%20views&color=0e75b6&style=flat" alt="raikneroz" /> </p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raikneroz&show_icons=true&locale=en" alt="raikneroz" /></p>
