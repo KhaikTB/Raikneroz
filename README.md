@@ -1,4 +1,4 @@
-<h1 align="center"># Tiago Profile</h1>
+<h1 align="center">Tiago Profile</h1>
 
 👋 Hi, welcome to my GitHub!
 
