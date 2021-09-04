@@ -37,8 +37,8 @@ I would say I am a fast learner maybe because due to previous experience or just
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raikneroz&label=Profile%20views&color=0e75b6&style=flat" alt="raikneroz"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raikneroz&label=Profile%20views&color=0e75b6&style=flat" alt="Raikneroz"></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raikneroz&show_icons=true&locale=en" alt="raikneroz"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raikneroz&show_icons=true&locale=en" alt="Raikneroz"></p>
