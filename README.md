@@ -27,18 +27,18 @@ I would say I am a fast learner maybe because due to previous experience or just
 
 <br>
 
-<a href="https://ibb.co/tQj4s7m"><img src="https://i.ibb.co/tQj4s7m/HTML5.png" alt="HTML5" align="left" width="30px" border="0"></a>
-<a href="https://ibb.co/L6WZDWQ"><img src="https://i.ibb.co/L6WZDWQ/CSS3.png" alt="CSS3" alt="HTML5" align="left" width="30px" border="0"></a>
-<a href="https://ibb.co/tK2Yj2X"><img src="https://i.ibb.co/tK2Yj2X/Java-Script-ES6.png" alt="Java-Script-ES6" align="left" width="30px" border="0"></a>
-<a href="https://ibb.co/MRdsqbZ"><img src="https://i.ibb.co/MRdsqbZ/Figma.png" alt="Figma" align="left" width="30px" border="0"></a>
-<a href="https://ibb.co/DDdTsJj"><img src="https://i.ibb.co/DDdTsJj/GitHub.png" alt="GitHub" align="left" width="30px" border="0"></a>
-<a href="https://ibb.co/WVfQKcK"><img src="https://i.ibb.co/WVfQKcK/Git.png" alt="Git" align="left" width="30px" border="0"></a>
+<a href="https://ibb.co/yyrzZB4"><img src="HTML5.png" alt="HTML5" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/jDqFmPN"><img src="CSS3.png" alt="CSS3" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/KyY5Xwv"><img src="JavaScript ES6.png" alt="JavaScript ES6" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/dtjcGps"><img src="Figma.png" alt="Figma" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/p1KvfsF"><img src="GitHub.png" alt="GitHub" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/zXy0VNj"><img src="Git.png" alt="Git" align="left" width="30px" height="30px" border="0"></a>
+<a href="
+https://ibb.co/7t5V8Qd"><img src="Visual Studio Code.png" alt="Visual Studio Code" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/xmvkHG6"><img src="SEO.png" alt="SEO" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/CVmrcwS"><img src="WordPress.png" alt="WordPress" align="left" width="30px" height="30px" border="0"></a>
 
 <br>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raikneroz&label=Profile%20views&color=0e75b6&style=flat" alt="Raikneroz"></p>
-
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raikneroz&show_icons=true&locale=en" alt="Raikneroz"></p>
