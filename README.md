@@ -35,8 +35,8 @@ I would say I am a fast learner maybe because due to previous experience or just
 <a href="https://ibb.co/zXy0VNj"><img src="Git.png" alt="Git" align="left" width="30px" height="30px" border="0"></a>
 <a href="
 https://ibb.co/7t5V8Qd"><img src="Visual Studio Code.png" alt="Visual Studio Code" align="left" width="30px" height="30px" border="0"></a>
-<a href="https://ibb.co/xmvkHG6"><img src="SEO.png" alt="SEO" align="left" width="30px" height="30px" border="0"></a>
-<a href="https://ibb.co/CVmrcwS"><img src="WordPress.png" alt="WordPress" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/WxkPZLW"><img src="SEO.png" alt="SEO" align="left" width="30px" height="30px" border="0"></a>
+<a href="https://ibb.co/FBq5XZ2"><img src="WordPress.png" alt="WordPress" align="left" width="30px" height="30px" border="0"></a>
 
 <br>
 <br>
