@@ -8,7 +8,7 @@
 
 <br>
 
-I started my programming journey in 2015 in High School with C++, Java and HTML just the basics.
+I started my programming journey in 2015 on High School with C++, Java and HTML just the basics.
 
 I was excited to become a programmer, but the languages combined with the way they teached just
 didn't sparked joy on what I was learning to be.
