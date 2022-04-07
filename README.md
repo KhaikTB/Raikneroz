@@ -13,7 +13,7 @@ I started my programming journey in 2015 on High School with C++, Java and HTML 
 I was excited to become a programmer, but the languages combined with the way they teached just
 didn't sparked joy on what I was learning to be.
 
-Fast track some time played with Python and C++ for specific trading purposes.
+Fast track some time played with Python and C++ for specific trading instruments purposes.
 
 I went for the Front End path because I love the way my code is displayed visually compared to other languages and I just love learning about Front End.
 
