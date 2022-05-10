@@ -15,7 +15,7 @@ didn't sparked joy on what I was learning to be.
 
 Fast track some time played with Python and C++ for specific trading instruments purposes.
 
-I decided to go with the Front End path because I love the way my code is displayed visually compared to other languages and I just love learning about Front End.
+Years later I decided to go with the Front End path because I love the way my code is displayed visually compared to other languages and I just love learning about Front End.
 
 I would say I am a fast learner, maybe because due to previous experience or just how I am, but also I dedicate many hours daily to it so that plays a big role on it as well.
 
